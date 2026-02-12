@@ -1,6 +1,6 @@
 # APB-with-PoO
 
-This repository contains the binaries for **[Your Software Name]**.  
+This repository contains the binaries for **APB-with-PoO**.  
 
 ## Usage
 
