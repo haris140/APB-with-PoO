@@ -1,6 +1,6 @@
 # APB-with-PoO
 
-This repository will contain the source code of my resaerch study titled **Auditable permissioned blockchain with proof of observer** in the future.  
+This repository will contain the source code of my research study titled **Auditable permissioned blockchain with proof of observer** in the future.  
 For now it contains SHA-512 hashes of research assets inlcuding hash of submitted documents and source codes. 
 
 ## Usage
