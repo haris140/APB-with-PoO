@@ -1,10 +1,11 @@
 # APB-with-PoO
 
-This repository contains the binaries for **APB-with-PoO**.  
+This repository will contain the source code of my resaerch study titled **Auditable permissioned blockchain with proof of observer** in the future.  
+For now it contains SHA-512 hashes of research assets inlcuding hash of submitted documents and source codes. 
 
 ## Usage
 
-- You may use this software **free of charge** for personal or **non-commercial purposes only**.  
+- You may use assets of this framework **free of charge** for personal or **non-commercial purposes only**.  
 - You **may not sell, repackage, or distribute it for commercial purposes**.  
 
 ## License
